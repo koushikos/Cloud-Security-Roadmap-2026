@@ -24,10 +24,15 @@ Welcome to your structured pathway into one of the most rewarding and high-deman
 ##Suggested Learning Timeline (Realistic)
 
 #Month 1–2 → Linux + Bash
+
 #Month 3–4 → Python + automation
+
 #Month 5–7 → AWS basics
+
 #Month 8–9 → Docker
+
 #Month 10–12 → Terraform + integration
+
 
 #After 1 year: 
 You are internship ready.
