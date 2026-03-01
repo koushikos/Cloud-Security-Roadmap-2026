@@ -29,8 +29,8 @@ Welcome to your structured pathway into one of the most rewarding and high-deman
 #Month 8–9 → Docker
 #Month 10–12 → Terraform + integration
 
-#After 1 year:
-#You are internship ready.
+#After 1 year: 
+You are internship ready.
 
 ---
 
